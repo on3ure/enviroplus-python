@@ -1,3 +1,13 @@
+# ON3URE addon
+
+Simple deamon + adafruit IO integration
+
+Edit io-ada-luftdaten.py (add your adafruit credentials)
+
+Run python3 io-ada-luftdaten.py 
+
+It will fork itselves in background
+
 # Enviro+ 
 
 Designed for environmental monitoring, Enviro+ lets you measure air quality (pollutant gases and particulates), temperature, pressure, humidity, light, and noise level. Learn more - https://shop.pimoroni.com/products/enviro-plus
